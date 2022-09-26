@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "postcode": "abc",
+      "street": "street",
+    }
+  ],  
+}
