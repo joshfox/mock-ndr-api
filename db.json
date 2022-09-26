@@ -2,7 +2,7 @@
   "properties": [
     {
       "postcode": "abc",
-      "street": "street",
+      "street": "street"
     }
   ]
 }
