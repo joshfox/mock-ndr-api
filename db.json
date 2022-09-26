@@ -1,8 +1,11 @@
 {
-  "properties": [
+  "posts": [
     {
-      "postcode": "abc",
-      "street": "street"
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
